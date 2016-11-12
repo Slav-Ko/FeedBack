@@ -1,15 +1,14 @@
-![free bootstrap template](http://kiber-hotel.ru/images/karta.jpg)
-1.<br/>
+![free bootstrap template](http://kiber-hotel.ru/images/1000.jpg)
+1.
 создать таблицу в базе данных feedback на localhost (али еще где)
 CREATE TABLE `pf_message` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(255) DEFAULT NULL,
   `email` varchar(255) DEFAULT NULL,
   `body` text,  PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-2.<br/>
+2.
 настроить базу данных в файле
 protected/config/database.php
-<?php
 return array(
    'connectionString' => 'mysql:host=localhost;dbname=feedback',
    'emulatePrepare' => true,
