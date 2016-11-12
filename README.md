@@ -15,7 +15,7 @@ return array(<br/>
    'connectionString' => 'mysql:host=localhost;dbname=feedback',<br/>
    'emulatePrepare' => true,<br/>
    'username' => 'root',<br/>
-   'password' => '22',<br/>
+   'password' => '***',<br/>
    'charset' => 'utf8',<br/>
    'tablePrefix' => 'pf_'<br/>
 );<br/>
