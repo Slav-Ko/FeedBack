@@ -6,7 +6,7 @@ CREATE TABLE `pf_message` (<br/>
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,<br/>
   `name` varchar(255) DEFAULT NULL,<br/>
   `email` varchar(255) DEFAULT NULL,<br/>
-  `body` text,
+  `body` text,<br/>
   PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;<br/>
 2.<br/>
 настроить базу данных в файле<br/>
