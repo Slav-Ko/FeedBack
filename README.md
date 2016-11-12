@@ -1,4 +1,4 @@
-![free bootstrap template](https://raw.githubusercontent.com/Slav-Ko/FeedBack/img/phones.png)
+![free bootstrap template](Slav-Ko.github.com/repository/img/phones.png)
 1.
 создать таблицу в базе данных feedback на localhost (али еще где)
 CREATE TABLE `pf_message` (
@@ -18,4 +18,4 @@ return array(
    'charset' => 'utf8',
    'tablePrefix' => 'pf_'
 );
-=================================================
+
