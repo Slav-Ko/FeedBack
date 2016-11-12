@@ -1,11 +1,12 @@
-=================================================
+![free bootstrap template](https://raw.githubusercontent.com/Slav-Ko/FeedBack/img/phones.png)
+1.
 создать таблицу в базе данных feedback на localhost (али еще где)
 CREATE TABLE `pf_message` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(255) DEFAULT NULL,
   `email` varchar(255) DEFAULT NULL,
   `body` text,  PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-=================================================
+2.
 настроить базу данных в файле
 protected/config/database.php
 <?php
