@@ -1,12 +1,12 @@
-![free bootstrap template](Slav-Ko.github.com/repository/img/phones.png)
-1.
+![free bootstrap template](http://kiber-hotel.ru/images/karta.jpg)
+1.<br/>
 создать таблицу в базе данных feedback на localhost (али еще где)
 CREATE TABLE `pf_message` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(255) DEFAULT NULL,
   `email` varchar(255) DEFAULT NULL,
   `body` text,  PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-2.
+2.<br/>
 настроить базу данных в файле
 protected/config/database.php
 <?php
