@@ -10,7 +10,7 @@ $this->pageTitle=Yii::app()->name;
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="float:right;padding-bottom:15px">
-					<img src="/img/close.png" alt="Закрыть"/>
+					<img src="img/close.png" alt="Закрыть"/>
 				</button>
 			</div>
 			<div id="feedback_body" class="modal-body" style="text-align:center">
