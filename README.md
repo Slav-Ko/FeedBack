@@ -19,4 +19,4 @@ return array(<br/>
    'charset' => 'utf8',<br/>
    'tablePrefix' => 'pf_'<br/>
 );<br/>
-
+<a href="mailto:slavko.chita@gmail.com">пишите автору</a>
