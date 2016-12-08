@@ -103,14 +103,7 @@
     <!-- /.intro-header -->
 
     <!-- Page Content -->
-    <div class="content-section-a">
-
-        <div class="container">
-            <div class="row">
-		<?php echo $content; ?>
-            </div>
-        </div>
-    </div>
+	<?php echo $content; ?>
 
 	<a  name="services"></a>
     <div class="content-section-a">
